@@ -52,6 +52,10 @@ Find and make sure that **terminal** has a check(If you don't do this step corre
 In the root folder there is a standalone executable called MidiConnectMac<br>
 Using a terminal, give it execution permissions then run it.
 
+#### [Android]
+> RobloxAndroidMidi is a different project that's maintained by EDLLT.
+https://github.com/EDLLT/RobloxAndroidMidi
+
 ```bash
 chmod +x MidiConnectMac
  ./MidiConnectMac
